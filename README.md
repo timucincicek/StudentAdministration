@@ -18,4 +18,5 @@ To add yourown database connections you have to modify these lines on the spring
         <property name="password" value="password" /> 
 Here's a view from my example database.You have to create a database according to same column names.
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/CVn5kWz/databaseexample.jpg" alt="databaseexample" border="0"></a>
+
 I explained all other details as command lines on the project files.So according this structure you can create your-own projects.
